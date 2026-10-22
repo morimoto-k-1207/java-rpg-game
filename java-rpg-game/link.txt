@@ -1,0 +1,3 @@
+javac Main.java Character.java Player.java Monster.java BossMonster.java Battle.java GameText.java
+
+java Main
